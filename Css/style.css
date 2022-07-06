@@ -1,0 +1,31 @@
+
+        body{
+            background-color: #1e242c;
+            color: aliceblue;
+        }
+        hr{
+            
+            border-style: none;
+            border-top-style: dotted;
+            width: 6%;
+            border-width: 3px;
+            border-color: #b5b8bc;
+        }
+        footer{
+            height: 300px;
+        }
+        h1{
+            color: #f36f3f;
+        }
+        h2{
+            color: #D6D5A8;
+        }
+        h3{
+            color: #D6D5A8;
+        }
+        a{
+            color: #9ae3d7;
+        }
+        footer{
+            background-color: #1e1f20;
+        }
